@@ -5,7 +5,7 @@ I am Oğuzcan. I have been working at Amazon Development Center for almost two y
 
 #### Contact me:
 <a target="_blank" href="https://www.linkedin.com/in/oguzcnmdn"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a href="https://www.kaggle.com/oauzcanmaden"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></img></a>
+<a href="https://www.kaggle.com/ouzcanmaden"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></img></a>
 <a target="_blank" href="mailto:oguzcnmdn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a href="https://www.instagram.com/oguzcnmdn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></img></a>
 
